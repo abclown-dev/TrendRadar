@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:59:09.333883+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-02-19T15:11:34.473452+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时11分]"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -76,6 +76,17 @@
           "time_info": "[02时59分 ~ 04时38分]"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时11分]"
+        },
+        {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
           "url": "https://flash.jin10.com/detail/20260219061414903800",
           "source": "金十数据",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时48分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时59分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -278,6 +278,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
           "url": "https://flash.jin10.com/detail/20260219025643641800",
           "source": "金十数据",
@@ -328,7 +339,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -432,6 +443,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://flash.jin10.com/detail/20260219140818011800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -490,7 +512,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -513,11 +535,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 13时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 15时11分]"
         },
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -541,30 +564,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
-          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
-          "url": "https://wallstreetcn.com/livenews/3056575",
-          "source": "华尔街见闻-快讯",
+          "title": "美以或对伊朗发动大规模袭击",
+          "url": "https://www.douyin.com/hot/2405517",
+          "source": "抖音",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
-          "url": "https://wallstreetcn.com/livenews/3056574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "15时11分"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -579,6 +591,31 @@
           "time_info": "[04时38分 ~ 05时34分]"
         },
         {
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时11分]"
+        },
+        {
+          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
+          "url": "https://wallstreetcn.com/livenews/3056575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时11分]"
+        },
+        {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
           "url": "https://flash.jin10.com/detail/20260219024740741800",
           "source": "金十数据",
@@ -591,16 +628,16 @@
           "time_info": "[02时59分 ~ 03时48分]"
         },
         {
-          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
-          "url": "https://wallstreetcn.com/articles/3765857",
-          "source": "华尔街见闻",
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://wallstreetcn.com/livenews/3056574",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时59分]"
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时11分]"
         },
         {
           "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
@@ -614,6 +651,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时03分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时11分]"
         },
         {
           "title": "美国白宫：在伊朗问题上取得了一些进展。",
@@ -651,17 +700,6 @@
           "time_info": "[03时48分 ~ 04时38分]"
         },
         {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
           "url": "https://wallstreetcn.com/articles/3765814",
           "source": "华尔街见闻",
@@ -682,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "伊朗备战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%87%E6%88%98%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
@@ -745,7 +794,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -756,9 +805,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "俄外长警告美若打击伊朗后果严重",
+          "url": "https://www.toutiao.com/trending/7608026768025157678/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
@@ -796,8 +867,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时32分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时32分 ~ 15时11分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -820,8 +891,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 13时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 15时11分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -846,8 +917,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 13时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 15时11分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -870,8 +941,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 13时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 15时11分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -969,7 +1040,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1050,11 +1121,12 @@
           "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "日本若介入台湾问题 中方必迎头痛击",
@@ -1062,11 +1134,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
@@ -1074,11 +1147,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时11分]"
+        },
+        {
+          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
+          "url": "https://news.ifeng.com/c/8qs0hWI4Cnu",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时59分]"
+          "time_info": "[13时58分 ~ 15时11分]"
         },
         {
           "title": "春晚台湾元素在岛内引发热议",
@@ -1104,17 +1189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 03时48分]"
-        },
-        {
-          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
-          "url": "https://news.ifeng.com/c/8qs0hWI4Cnu",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "傅聪：日若介入台湾问题必将迎头痛击",
@@ -1148,6 +1222,19 @@
           "time_info": "[02时59分 ~ 04时38分]"
         },
         {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时11分]"
+        },
+        {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
@@ -1158,18 +1245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时29分]"
-        },
-        {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时59分]"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
@@ -1298,7 +1373,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
