@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:45:03.069742+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-02-26T19:40:20.299586+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 19时40分]"
         },
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 19时40分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 19时40分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗坚持不讨论弹道导弹是一个“非常非常严重的问题”。",
@@ -103,11 +103,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 19时40分]"
+        },
+        {
+          "title": "伊朗外长抵达瑞士进行美伊第三轮谈判，伊朗总统认为伊美谈判「前景良好」，谈判焦点在于哪些方面？",
+          "url": "https://www.zhihu.com/question/2010294723651327618",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时49分 ~ 18时45分]"
+          "time_info": "[18时44分 ~ 19时40分]"
         },
         {
           "title": "中方回应“会否支持伊朗抵御美攻击”",
@@ -132,17 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时35分]"
-        },
-        {
-          "title": "伊朗外长抵达瑞士进行美伊第三轮谈判，伊朗总统认为伊美谈判「前景良好」，谈判焦点在于哪些方面？",
-          "url": "https://www.zhihu.com/question/2010294723651327618",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "学者：伊朗的战略选择将牵动全球格局",
@@ -217,7 +218,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -261,7 +262,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -283,7 +284,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -297,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美财政部发布涉伊朗最新制裁名单",
@@ -489,7 +501,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -560,8 +572,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 18时45分]"
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 19时40分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -569,11 +581,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 19时40分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -598,6 +611,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 19时40分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -648,17 +673,6 @@
           "time_info": "[03时08分 ~ 04时35分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
           "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
           "source": "凤凰网",
@@ -679,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
@@ -720,7 +745,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -772,8 +797,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时45分 ~ 18时45分]"
+          "appearance_count": 12,
+          "time_info": "[07时45分 ~ 19时40分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -850,6 +875,18 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
+          "title": "唯品会第四财季调整后每ADS收益5.66元人民币，上年同期5.70元人民币，市场预估5.43元人民币。 第四财季活跃用户数4,530万，同比下降0.9%，市场预估4,608万。 第四财季净营收324.7亿元人民币，同比下降2.3%，市场预估334.9亿元人民币。 预计第一财季净营收263亿元人民币至276亿元人民币，市场预估268.3亿元人民币。 唯品会美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3059496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时40分]"
+        },
+        {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260226050531438800",
           "source": "金十数据",
@@ -894,24 +931,13 @@
           "time_info": "17时49分"
         },
         {
-          "title": "唯品会第四财季调整后每ADS收益5.66元人民币，上年同期5.70元人民币，市场预估5.43元人民币。 第四财季活跃用户数4,530万，同比下降0.9%，市场预估4,608万。 第四财季净营收324.7亿元人民币，同比下降2.3%，市场预估334.9亿元人民币。 预计第一财季净营收263亿元人民币至276亿元人民币，市场预估268.3亿元人民币。 唯品会美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3059496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "爱奇艺(IQ.O)美股盘前涨5%，此前公布的财报显示第四季度营收有所增长。",
           "url": "https://flash.jin10.com/detail/20260226180836459800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1038,11 +1064,12 @@
             7,
             10,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时45分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时40分]"
         },
         {
           "title": "福建喊话回归台湾回复收到",
@@ -1193,7 +1220,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "女子泰国机场1110元金价买了周大福",
@@ -1226,11 +1253,64 @@
           "ranks": [
             30,
             29,
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 19时40分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时45分 ~ 18时45分]"
+          "time_info": "[09时58分 ~ 15时03分]"
+        },
+        {
+          "title": "印度证券交易委员会：经认可的证券交易所公布的即期价格可用于对共同基金计划持有的黄金和白银进行估值。",
+          "url": "https://flash.jin10.com/detail/20260226184611823800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "印度证券交易委员会：自4月1日起，共同基金将采用经认可证券交易所公布的即期现货价格对实物黄金和白银进行估值。",
+          "url": "https://flash.jin10.com/detail/20260226184527380800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
@@ -1270,25 +1350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
-          "url": "https://www.cls.cn/detail/2295242",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 15时03分]"
         }
       ]
     },
