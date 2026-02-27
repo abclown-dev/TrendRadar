@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:52:16.000719+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-02-27T23:37:42.060032+08:00",
+  "total_titles_processed": 2107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 72,
+      "match_count": 80,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -30,28 +30,16 @@
           "time_info": "[00时57分 ~ 07时29分]"
         },
         {
-          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
-          "url": "https://wallstreetcn.com/articles/3766294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 22时52分]"
-        },
-        {
           "title": "外交部提醒中国公民暂勿前往伊朗",
           "url": "https://www.toutiao.com/trending/7611299804274507827/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -62,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "提醒在伊朗的中国公民尽快撤离",
@@ -74,8 +62,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
+        },
+        {
+          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
+          "url": "https://wallstreetcn.com/articles/3766294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时56分 ~ 23时37分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -89,6 +90,32 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时57分 ~ 09时57分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.cls.cn/detail/2297484",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
@@ -139,40 +166,16 @@
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.cls.cn/detail/2297484",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
           "ranks": [
             2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
-        },
-        {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://www.douyin.com/hot/2413685",
-          "source": "抖音",
-          "ranks": [
             6,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -182,8 +185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时37分]"
         },
         {
           "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
@@ -195,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "伊朗危!提醒中国公民撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351092&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%8D%B1%21%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "伊朗拒绝向国外转移浓缩铀",
@@ -253,6 +267,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "国际原子能机构：无法确认伊朗铀浓缩活动现状",
+          "url": "https://wallstreetcn.com/livenews/3060392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059722",
           "source": "华尔街见闻-快讯",
@@ -303,6 +328,17 @@
           "time_info": "[02时57分 ~ 03时44分]"
         },
         {
+          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时37分]"
+        },
+        {
           "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
           "url": "https://wallstreetcn.com/livenews/3059744",
           "source": "华尔街见闻-快讯",
@@ -313,6 +349,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时32分]"
+        },
+        {
+          "title": "美国 伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时37分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时37分]"
         },
         {
           "title": "伊朗警告：将让侵略者付出惨重代价",
@@ -327,17 +387,6 @@
           "time_info": "[15时46分 ~ 16时40分]"
         },
         {
-          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
-        },
-        {
           "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3059687",
           "source": "华尔街见闻-快讯",
@@ -349,29 +398,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时57分]"
-        },
-        {
-          "title": "美国 伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
         },
         {
           "title": "莫迪趁着伊朗危局要好处能得逞吗",
@@ -420,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时37分]"
+        },
+        {
+          "title": "以军发言人：正密切监视伊朗局势 保持高度警惕",
+          "url": "https://wallstreetcn.com/livenews/3060361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时37分]"
         },
         {
           "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
@@ -511,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
+          "url": "https://wallstreetcn.com/articles/3766376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "市场消息：伊朗敦促美国放弃“过分的要求”以达成协议。",
@@ -612,15 +661,26 @@
           "time_info": "18时37分"
         },
         {
-          "title": "以军发言人：正密切监视伊朗局势 保持高度警惕",
-          "url": "https://wallstreetcn.com/livenews/3060361",
+          "title": "英国从伊朗暂时撤出使馆工作人员",
+          "url": "https://wallstreetcn.com/livenews/3060382",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "23时37分"
+        },
+        {
+          "title": "伊朗德黑兰东南部一处仓库起火",
+          "url": "https://wallstreetcn.com/livenews/3060381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
@@ -640,7 +700,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -665,6 +725,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "国际原子能机构：无法确认伊朗铀浓缩活动现状",
+          "url": "https://flash.jin10.com/detail/20260227230201751800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "IAEA：无法确认伊朗核活动",
+          "url": "https://www.douyin.com/hot/2413928",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "伊朗外长阿拉格齐：双方都需要与其各自首都（领导人）进行磋商。",
@@ -755,6 +837,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "英国政府暂时从伊朗撤回工作人员",
+          "url": "https://flash.jin10.com/detail/20260227225723848800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "据AXIOS网站：知情人士透露，白宫特使库什纳和威特科夫对（当地时间）上午谈判中伊朗方面的回应感到失望。",
           "url": "https://flash.jin10.com/detail/20260227021352272800",
           "source": "金十数据",
@@ -838,7 +931,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         }
@@ -846,7 +939,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -869,11 +962,12 @@
             8,
             14,
             16,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时39分 ~ 22时52分]"
+          "appearance_count": 12,
+          "time_info": "[16时39分 ~ 23时37分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -885,8 +979,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时39分 ~ 22时52分]"
+          "appearance_count": 12,
+          "time_info": "[16时39分 ~ 23时37分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -968,6 +1062,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普媒体科技集团考虑将“Truth Social”分拆出来",
+          "url": "https://flash.jin10.com/detail/20260227231735776800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -1101,6 +1206,18 @@
           "time_info": "[12时14分 ~ 13时52分]"
         },
         {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时37分]"
+        },
+        {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
           "url": "https://wallstreetcn.com/livenews/3059705",
           "source": "华尔街见闻-快讯",
@@ -1114,18 +1231,6 @@
           "time_info": "[01时58分 ~ 03时44分]"
         },
         {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
-        },
-        {
           "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
           "url": "https://wallstreetcn.com/livenews/3059757",
           "source": "华尔街见闻-快讯",
@@ -1136,6 +1241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普政府周五面临首个重大关税退税法定期限",
+          "url": "https://wallstreetcn.com/livenews/3060363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时37分]"
         },
         {
           "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
@@ -1192,17 +1309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        },
-        {
-          "title": "特朗普政府周五面临首个重大关税退税法定期限",
-          "url": "https://wallstreetcn.com/livenews/3060363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
@@ -1266,7 +1372,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1332,7 +1438,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1354,7 +1460,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         }
@@ -1362,7 +1468,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -1465,8 +1571,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时37分]"
         },
         {
           "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
@@ -1579,6 +1685,17 @@
           "time_info": "22时02分"
         },
         {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
           "url": "https://flash.jin10.com/detail/20260227213347014800",
           "source": "金十数据",
@@ -1596,7 +1713,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1629,7 +1746,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1695,7 +1812,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1706,7 +1823,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         }
@@ -1714,7 +1831,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -1764,24 +1881,24 @@
           "time_info": "22时02分"
         },
         {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260227231502204800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美股延续跌势，标普500指数下跌1.01%。",
           "url": "https://flash.jin10.com/detail/20260227224301874800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
-          "url": "https://wallstreetcn.com/livenews/3060373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1796,6 +1913,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时33分]"
+        },
+        {
+          "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3060373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时37分]"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
@@ -1852,7 +1981,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1923,6 +2052,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "避险情绪占主导且Block裁员加剧AI担忧，美股走低",
+          "url": "https://flash.jin10.com/detail/20260227230411009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3059778",
           "source": "华尔街见闻-快讯",
@@ -1962,7 +2102,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -2303,6 +2443,57 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "地缘风险升温，美股2月迈向下跌，道指期货跌超1%，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3059749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时32分]"
+        },
+        {
+          "title": "上证报：外国央行同步净减持美债折射外汇储备多元化趋势",
+          "url": "https://wallstreetcn.com/livenews/3059818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -2351,46 +2542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "地缘风险升温，美股2月迈向下跌，道指期货跌超1%，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
-        },
-        {
-          "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3059749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时32分]"
-        },
-        {
-          "title": "上证报：外国央行同步净减持美债折射外汇储备多元化趋势",
-          "url": "https://wallstreetcn.com/livenews/3059818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         }
       ]
     },
