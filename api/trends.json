@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T15:44:21.550598+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-04-16T17:18:37.814700+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 93,
+      "match_count": 100,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -43,8 +43,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 15时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 17时18分]"
         },
         {
           "title": "伊朗战争丨美民主党对防长赫格塞思发起弹劾",
@@ -56,6 +56,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时45分 ~ 08时02分]"
+        },
+        {
+          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
+          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 17时18分]"
         },
         {
           "title": "韩国向伊朗提供50万美元人道主义援助，称与霍尔木兹通行无关",
@@ -107,18 +119,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 08时02分]"
-        },
-        {
-          "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
-          "url": "https://news.ifeng.com/c/8sMUKrSfaoi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 15时44分]"
         },
         {
           "title": "伊朗警告美持续封锁是破坏停火前奏",
@@ -210,7 +210,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -232,7 +232,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -265,7 +265,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -279,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://wallstreetcn.com/livenews/3089179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "俄外长：霍尔木兹海峡危机的起因是“美以无端侵略伊朗”",
@@ -315,6 +326,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
+          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 17时18分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027874423894533456",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 17时18分]"
         },
         {
           "title": "据华尔街日报：美国副总统万斯预计将主导未来与伊朗的任何高级别会谈。",
@@ -365,26 +398,17 @@
           "time_info": "[05时52分 ~ 06时41分]"
         },
         {
-          "title": "伊朗总统突然现身中方活动：中国站出来反对压迫和不公，感谢！",
-          "url": "https://news.ifeng.com/c/8sMdMjokBOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 15时44分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027874423894533456",
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
           "source": "知乎",
           "ranks": [
-            6
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 17时18分]"
         },
         {
           "title": "欧洲央行执行理事会成员Isabel Schnabel：通胀预期可能会变得更加脆弱。 欧洲央行可以承受“花时间来分析伊朗战争带来的冲击”所产生的影响。",
@@ -398,18 +422,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 06时41分]"
-        },
-        {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 15时44分]"
         },
         {
           "title": "那个打出6:0的元帅，去了伊朗",
@@ -480,6 +492,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 13时35分]"
+        },
+        {
+          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
+          "url": "https://www.cls.cn/detail/2345830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 17时18分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国应纠正“以色列优先”的错误并从中撤出。",
@@ -587,6 +611,17 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "【伊朗外交部发言人：伊美是否延长停火无法确认】伊朗外交部发言人巴加埃15日在首都德黑兰举行的记者会上表示，有关伊美延长停火的相关猜测尚无法确认，需观察美方就其宣称的外交立场是否具备实际诚意。 据伊朗伊斯兰共和国通讯社报道，巴加埃在回答关于“伊美停火是否可能延长，以及谈判中哪些问题取得相对进展”的提问时表示，美国“立场多次变化、表述相互矛盾”，即便达成某种共识，也难以确保其会履行。因此，伊美之间的对话是在非常复杂的情况下进行的。 谈及谈判进展，巴加埃表示，相关议题具有整体性，各项内容需作为一个整体加以推进。目前对话仍通过巴基斯坦作为中间方继续进行。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3088738",
           "source": "华尔街见闻-快讯",
@@ -631,17 +666,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
-          "url": "https://www.cls.cn/detail/2345830",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
           "title": "伊朗国家媒体援引该国石化下游产业发展负责人发布的声明称，伊朗已暂停所有石化产品出口，直至另行通知。伊朗方面于4月6日表示，位于南帕尔斯地区的两座石化工厂设施遭到敌方空袭打击。",
           "url": "https://flash.jin10.com/detail/20260416003656847800",
           "source": "金十数据",
@@ -659,7 +683,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -673,6 +697,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗：美国成以色列“第七个行政区”",
+          "url": "https://www.toutiao.com/trending/7628284506704805939/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "伊朗：美国已成以色列“第7个行政区”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%9C%E7%AC%AC7%E4%B8%AA%E8%A1%8C%E6%94%BF%E5%8C%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://flash.jin10.com/detail/20260416170653598800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "经济学家：伊朗战争的影响料将在美国4月进口价格数据中体现出来",
@@ -763,6 +820,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "伊朗外交部：延长停火猜测未得到确认",
+          "url": "https://wallstreetcn.com/livenews/3089165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "白宫未说明伊朗港口封锁持续时间",
           "url": "https://flash.jin10.com/detail/20260416022614409800",
           "source": "金十数据",
@@ -772,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗称“12日战争”后自杀式无人机产量已提升约10倍",
+          "url": "https://wallstreetcn.com/livenews/3089164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "伊朗要求五个地区国赔偿战争损失",
@@ -813,7 +892,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -868,7 +947,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1022,7 +1101,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1044,7 +1123,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1074,7 +1153,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -1133,8 +1212,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 15时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 17时18分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -1213,6 +1292,30 @@
           "time_info": "[10时32分 ~ 15时44分]"
         },
         {
+          "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 17时18分]"
+        },
+        {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
           "url": "https://flash.jin10.com/detail/20260416024007634800",
           "source": "金十数据",
@@ -1236,19 +1339,6 @@
           "time_info": "[06时41分 ~ 08时02分]"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 15时44分]"
-        },
-        {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
           "url": "https://www.cls.cn/detail/2345555",
           "source": "财联社热门",
@@ -1259,6 +1349,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 17时18分]"
+        },
+        {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
@@ -1278,7 +1391,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1289,18 +1402,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1311,9 +1413,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国白宫：特朗普已批准许可，授权巴肯管道公司在北达科他州伯克县边界建设并运营跨境管道。",
@@ -1325,6 +1438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "特朗普“封锁令”影响几何？分析：若石油出口完全断流 伊朗最多两月后须减产！",
+          "url": "https://www.cls.cn/detail/2345809",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普宣布政策前，总有人“提前知道”？美国监管机构动手了",
@@ -1344,7 +1468,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1557,7 +1681,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国台办谈丹麦把台湾人“国籍”改中国",
@@ -1585,13 +1709,24 @@
           "time_info": "13时35分"
         },
         {
+          "title": "警察带台湾同胞走中国公民专用通道",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E5%AF%9F%E5%B8%A6%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E8%B5%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%93%E7%94%A8%E9%80%9A%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "大陆再促台湾全面恢复直航",
           "url": "https://www.toutiao.com/trending/7629197752023597098/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -1612,11 +1747,12 @@
             28,
             21,
             9,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 15时44分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 17时18分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -1642,7 +1778,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1709,6 +1845,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "湖南黄金：预计2026年第一季度净利润为5.32亿元～6.31亿元，同比增长60.00%～90.00%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3089146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大陆",
       "match_count": 1,
       "titles": [
@@ -1736,7 +1889,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
