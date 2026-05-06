@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:57:26.172141+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-05-06T16:27:30.966349+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 13时57分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 16时27分]"
         },
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 16时27分]"
         },
         {
           "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
@@ -65,8 +65,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 16时27分]"
+        },
+        {
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时04分 ~ 13时57分]"
+          "time_info": "[10时42分 ~ 16时27分]"
         },
         {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
@@ -96,15 +107,15 @@
           "time_info": "[01时25分 ~ 10时42分]"
         },
         {
-          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
-          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "title": "伊朗最大岛屿传出巨响",
+          "url": "https://news.ifeng.com/c/8su7EjBss9v",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 16时27分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -131,6 +142,17 @@
           "time_info": "10时42分"
         },
         {
+          "title": "据韩媒YTN：伊朗大使馆否认其与霍尔木兹海峡韩国船只受损有关。",
+          "url": "https://flash.jin10.com/detail/20260506160234530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "曝美以或准备对伊朗发动新一轮打击",
           "url": "https://www.toutiao.com/trending/7635456789408972809/",
           "source": "今日头条",
@@ -143,37 +165,15 @@
           "time_info": "[01时25分 ~ 08时04分]"
         },
         {
-          "title": "伊朗外长抵京时身穿休闲装",
-          "url": "https://www.toutiao.com/trending/7636613941229063730/",
-          "source": "今日头条",
+          "title": "伊朗外长与沙特阿拉伯外交大臣通话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3099233",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "伊朗外长身穿休闲装抵达北京",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%BA%AB%E7%A9%BF%E4%BC%91%E9%97%B2%E8%A3%85%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "伊朗最大岛屿传出巨响",
-          "url": "https://news.ifeng.com/c/8su7EjBss9v",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "16时27分"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -248,6 +248,44 @@
           "time_info": "[01时25分 ~ 08时04分]"
         },
         {
+          "title": "伊朗外长抵京时身穿休闲装",
+          "url": "https://www.toutiao.com/trending/7636613941229063730/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗外长身穿休闲装抵达北京",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%BA%AB%E7%A9%BF%E4%BC%91%E9%97%B2%E8%A3%85%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035126415859742260",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 16时27分]"
+        },
+        {
           "title": "王毅同伊朗外长阿拉格齐会谈",
           "url": "https://www.toutiao.com/trending/7636594621790817802/",
           "source": "今日头条",
@@ -258,19 +296,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时42分 ~ 13时57分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035126415859742260",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 13时57分]"
         },
         {
           "title": "美官员：美商船穿越霍尔木兹海峡时，曾遭伊朗袭击",
@@ -353,6 +378,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 08时04分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://news.ifeng.com/c/8suIT3dG9dH",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伊朗总统：美国正对伊采取“极限施压”",
@@ -441,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐抵达北京",
+          "url": "https://www.douyin.com/hot/2489684",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伊朗德黑兰省一商场发生火灾致8死36伤",
@@ -603,7 +650,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -705,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "德国化工行业信心4月降至近三年低点，因伊朗战争扰乱供应",
+          "url": "https://flash.jin10.com/detail/20260506155129493800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美国国务院：他们讨论了美俄关系、俄乌战争以及伊朗问题。",
@@ -809,7 +867,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -880,6 +938,28 @@
           "time_info": "[01时25分 ~ 10时42分]"
         },
         {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -889,17 +969,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -933,17 +1002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
@@ -983,15 +1041,40 @@
           "time_info": "[10时42分 ~ 13时57分]"
         },
         {
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
           "title": "特朗普称暂停自由计划行动",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
         },
         {
           "title": "WTI原油6月期货合约下跌2.70美元，跌破100美元关口，此前特朗普宣布暂停“自由计划”行动。",
@@ -1003,17 +1086,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "美国宣布对伊“攻势结束”，特朗普突然叫停“自由计划”",
@@ -1038,15 +1110,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
-          "url": "https://www.cls.cn/detail/2363248",
-          "source": "财联社热门",
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普称疏导霍尔木兹海峡行动暂停",
@@ -1082,13 +1154,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3099207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "伊朗媒体称特朗普暂停“自由计划”是为掩盖失败",
           "url": "https://wallstreetcn.com/livenews/3099125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1135,6 +1218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "民主党人要求特朗普政府披露以色列核武的“公开秘密”",
+          "url": "https://wallstreetcn.com/livenews/3099190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -1176,6 +1270,18 @@
           "time_info": "03时17分"
         },
         {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3098935",
           "source": "华尔街见闻-快讯",
@@ -1196,17 +1302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "Anthropic拟向谷歌投入2000亿美元",
@@ -1300,7 +1395,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -1415,6 +1510,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "郭明錤：OpenAI智能体手机冲击明年量产 目标两年出货3000万部",
+          "url": "https://www.cls.cn/detail/2363135",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
           "url": "https://flash.jin10.com/detail/20260506020032402800",
           "source": "金十数据",
@@ -1450,6 +1556,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价跳水是机会还是坑",
+          "url": "https://www.toutiao.com/trending/7636354274716290614/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时55分]"
+        },
+        {
+          "title": "鹰派预期将继续施压金价，但情绪指标暗示长期配置机会已到？",
+          "url": "https://flash.jin10.com/detail/20260506102413219800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "现货铂金价格上涨近3%，至2011.80 美元/盎司。 现货钯金价格上涨3%，至1530.33 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "金价涨超0.7%，自4500美元附近反弹",
+          "url": "https://wallstreetcn.com/livenews/3098945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 4,
       "titles": [
@@ -1460,7 +1618,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -1496,47 +1654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价跳水是机会还是坑",
-          "url": "https://www.toutiao.com/trending/7636354274716290614/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时55分]"
-        },
-        {
-          "title": "鹰派预期将继续施压金价，但情绪指标暗示长期配置机会已到？",
-          "url": "https://flash.jin10.com/detail/20260506102413219800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "金价涨超0.7%，自4500美元附近反弹",
-          "url": "https://wallstreetcn.com/livenews/3098945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         }
       ]
     },
@@ -1582,11 +1699,12 @@
             12,
             28,
             14,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 13时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 16时27分]"
         }
       ]
     },
