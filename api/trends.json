@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T20:36:35.856612+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-06-09T23:54:24.174825+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -248,8 +248,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 23时54分]"
         },
         {
           "title": "特朗普提名前私人律师，任司法部长",
@@ -439,6 +439,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "特朗普称未来两周将对伊朗取得全面胜利",
           "url": "https://flash.jin10.com/detail/20260609070925533800",
           "source": "金十数据",
@@ -522,7 +533,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -552,7 +563,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“未来两周将对伊朗全面胜利”",
@@ -759,6 +770,17 @@
           "time_info": "17时40分"
         },
         {
+          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260609233159062800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "伊朗官员：伊朗不排斥推进谈判 但美必须拿出诚意",
           "url": "https://wallstreetcn.com/livenews/3116523",
           "source": "华尔街见闻-快讯",
@@ -814,11 +836,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 23时54分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -1063,6 +1086,83 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩国议员窜访台湾，外交部表态",
+          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 23时54分]"
+        },
+        {
+          "title": "媒体：两岸统一后台湾将不再缺电",
+          "url": "https://www.toutiao.com/trending/7648853210555875370/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 08时05分]"
+        },
+        {
+          "title": "台湾岛东部海域执法行动画面",
+          "url": "https://www.douyin.com/hot/2526967",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 06时26分]"
+        },
+        {
+          "title": "台湾岛东部海域海上交通专项执法行动直击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33330883",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "“馆长”喊台湾民众去大陆看看",
+          "url": "https://www.toutiao.com/trending/7648137176563613732/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "媒体：台湾必须面对被重塑的现实格局",
+          "url": "https://www.toutiao.com/trending/7649021871107080242/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1085,7 +1185,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1123,72 +1223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "媒体：两岸统一后台湾将不再缺电",
-          "url": "https://www.toutiao.com/trending/7648853210555875370/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "台湾岛东部海域执法行动画面",
-          "url": "https://www.douyin.com/hot/2526967",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 06时26分]"
-        },
-        {
-          "title": "韩国议员窜访台湾，外交部表态",
-          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 20时36分]"
-        },
-        {
-          "title": "台湾岛东部海域海上交通专项执法行动直击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33330883",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        },
-        {
-          "title": "“馆长”喊台湾民众去大陆看看",
-          "url": "https://www.toutiao.com/trending/7648137176563613732/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         }
       ]
     },
