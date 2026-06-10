@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T17:57:06.154161+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-06-10T20:57:31.594813+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "伊朗称摧毁约旦美军基地F-35机库",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 20时57分]"
         },
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -177,6 +177,17 @@
           "time_info": "08时12分"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 20时57分]"
+        },
+        {
           "title": "消息称伊朗无人机飞越伊拉克领空，对美目标发动袭击",
           "url": "https://wallstreetcn.com/livenews/3117056",
           "source": "华尔街见闻-快讯",
@@ -201,26 +212,16 @@
           "time_info": "[06时24分 ~ 08时12分]"
         },
         {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 17时57分]"
-        },
-        {
           "title": "美军对伊朗发动打击",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 20时57分]"
         },
         {
           "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
@@ -231,8 +232,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 20时57分]"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -373,7 +374,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -417,7 +418,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -560,7 +561,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -582,7 +583,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -604,7 +605,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -618,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "伊朗公布击落美军MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗霍尔木兹甘省部分地区发生爆炸",
@@ -659,7 +671,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -714,7 +726,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -796,6 +808,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "伊朗击落美军“阿帕奇”直升机",
+          "url": "https://www.douyin.com/hot/2529103",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：尽管美国在战场上屡遭挫败，但仍选择试探我们的决心。",
           "url": "https://flash.jin10.com/detail/20260610063154364800",
           "source": "金十数据",
@@ -813,7 +836,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
@@ -821,7 +844,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -891,6 +914,18 @@
           "time_info": "06时24分"
         },
         {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时12分 ~ 20时57分]"
+        },
+        {
           "title": "特朗普：美伊谈判进入“最后关头”",
           "url": "https://news.ifeng.com/c/8tooQUA09O3",
           "source": "凤凰网",
@@ -916,16 +951,15 @@
           "time_info": "[02时03分 ~ 08时12分]"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时12分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 20时57分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -950,17 +984,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 13时17分]"
-        },
-        {
-          "title": "美贸易法院：特朗普，快退钱！",
-          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要”",
@@ -1007,6 +1030,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
+          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普称对伊朗进行打击“非常重要”",
           "url": "https://flash.jin10.com/detail/20260610055938102800",
           "source": "金十数据",
@@ -1018,6 +1052,28 @@
           "time_info": "06时24分"
         },
         {
+          "title": "经济学家：通胀符合预期非乐观信号，特朗普需尽快解决海峡问题给美联储定心丸",
+          "url": "https://flash.jin10.com/detail/20260610204903334800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "特朗普淡化美直升机坠毁事件：没什么大不了",
           "url": "https://flash.jin10.com/detail/20260610042428986800",
           "source": "金十数据",
@@ -1027,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美伊谈判仍在继续，特朗普将继续施加最大压力以达成协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
@@ -1084,6 +1151,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E5%8E%82%E5%92%8C%E6%A1%A5%E6%A2%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
           "url": "https://wallstreetcn.com/livenews/3116986",
           "source": "华尔街见闻-快讯",
@@ -1098,7 +1176,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩国议员窜访台湾，外交部表态",
@@ -1113,15 +1191,15 @@
           "time_info": "[02时03分 ~ 13时17分]"
         },
         {
-          "title": "国台办：和平统一后台湾将成繁荣之岛",
-          "url": "https://www.toutiao.com/trending/7649365955310571027/",
+          "title": "中国已补齐台湾岛东部海底地图",
+          "url": "https://www.toutiao.com/trending/7648911050737729599/",
           "source": "今日头条",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "台湾岛东部海域海上交通专项执法和扫测行动圆满结束",
@@ -1130,7 +1208,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1147,15 +1225,39 @@
           "time_info": "[13时17分 ~ 17时57分]"
         },
         {
+          "title": "国台办：和平统一后台湾将成繁荣之岛",
+          "url": "https://www.toutiao.com/trending/7649365955310571027/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 20时57分]"
+        },
+        {
           "title": "台媒：和统是台湾新自救宣言",
           "url": "https://www.toutiao.com/trending/7649535926628220964/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 20时57分]"
+        },
+        {
+          "title": "中国已补齐台湾岛东部海底地图",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E8%A1%A5%E9%BD%90%E5%8F%B0%E6%B9%BE%E5%B2%9B%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%BA%95%E5%9C%B0%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "台湾证交所加权股价指数下跌2%至43,795.47点。",
@@ -1227,8 +1329,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 20时57分]"
         },
         {
           "title": "花旗预测金价或跌至3500美元",
@@ -1267,8 +1369,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国CPI数据公布后，美股股指期货小幅走高，纳指期货日内跌幅收窄至0.9%，此前跌超1.5%。美元指数短线走低，日内跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3117505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
         {
           "title": "美元指数周二呈现出V形走势",
           "url": "https://wallstreetcn.com/livenews/3116999",
@@ -1302,11 +1415,12 @@
           "url": "https://www.toutiao.com/trending/7649645331768524836/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 20时57分]"
         },
         {
           "title": "国台办：民进党当局推行的赴大陆旅游“禁团令”等限制做法不得人心",
@@ -1386,11 +1500,12 @@
           "url": "https://www.cls.cn/detail/2396007",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 20时57分]"
         }
       ]
     }
