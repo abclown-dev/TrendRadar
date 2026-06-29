@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:49:35.063737+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-06-29T18:55:23.387511+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -28,11 +28,12 @@
             13,
             14,
             15,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 13时49分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 18时55分]"
         },
         {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
@@ -141,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "伊朗外长：中东各国绝不能允许其领土被用于袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3126090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗与黎巴嫩商定设立冲突管控工作组",
@@ -310,7 +322,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -337,6 +349,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "伊朗副外长：本周暂未安排伊美技术性会谈",
+          "url": "https://wallstreetcn.com/livenews/3126071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "黎巴嫩议长办公室：伊朗议会议长卡利巴夫保证，德黑兰方面将依据谅解备忘录，推动以色列停止对黎巴嫩发动战事。",
           "url": "https://flash.jin10.com/detail/20260628230833889800",
           "source": "金十数据",
@@ -346,6 +369,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，伊朗表示本周没有与美国进行技术性会谈的计划。塔斯尼姆通讯社",
+          "url": "https://wallstreetcn.com/livenews/3126058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "伊朗副外长：本周暂未安排伊美技术性会谈",
+          "url": "https://flash.jin10.com/detail/20260629181259897800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
@@ -365,7 +410,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -376,7 +421,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -406,7 +451,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -535,9 +580,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -549,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "特朗普两大核心赌注将迎高院裁决",
+          "url": "https://www.toutiao.com/trending/7656377393184489514/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -557,24 +624,25 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 18时55分]"
+        },
+        {
           "title": "韩国：预计在五年内将DRAM生产能力翻倍。 预计全球内存市场将在5年内增长四倍。",
           "url": "https://wallstreetcn.com/livenews/3125884",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
-          "url": "https://wallstreetcn.com/articles/3775711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -585,7 +653,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -596,9 +664,49 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国台湾证交所加权股价指数收高1%报44,999.90点。",
+          "url": "https://wallstreetcn.com/livenews/3125893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "专家：福建舰穿越台湾海峡显示决心",
+          "url": "https://www.toutiao.com/trending/7655580792210554916/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时01分]"
+        },
+        {
+          "title": "曾沛慈和老公一起回台湾",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%92%8C%E8%80%81%E5%85%AC%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
@@ -634,37 +742,8 @@
       ]
     },
     {
-      "keyword_group": "台湾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国台湾证交所加权股价指数收高1%报44,999.90点。",
-          "url": "https://wallstreetcn.com/livenews/3125893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "专家：福建舰穿越台湾海峡显示决心",
-          "url": "https://www.toutiao.com/trending/7655580792210554916/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -677,6 +756,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时09分 ~ 13时49分]"
+        },
+        {
+          "title": "谷歌云将提供用于科学研究的专业AI模型",
+          "url": "https://flash.jin10.com/detail/20260629181622032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     },
