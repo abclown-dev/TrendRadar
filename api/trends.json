@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T15:35:23.328890+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-07-01T17:12:50.282437+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -110,6 +110,19 @@
           "time_info": "07时32分"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普政府，遭全美半数州集体起诉",
           "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
           "source": "凤凰网",
@@ -154,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 15时35分]"
         },
         {
           "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
@@ -386,6 +387,28 @@
           "time_info": "13时36分"
         },
         {
+          "title": "927页“史上最长”财务文件：特朗普去年炒币大赚12亿美元，重仓科技巨头！",
+          "url": "https://www.cls.cn/detail/2413671",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "《YMCA》主唱Victor Willis去世 曾为特朗普演唱",
+          "url": "https://flash.jin10.com/detail/20260701170134287800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
           "url": "https://flash.jin10.com/detail/20260701043754582800",
           "source": "金十数据",
@@ -499,7 +522,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -777,7 +800,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -813,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗称一艘外国船只在霍尔木兹海峡航行时搁浅，这艘集装箱船使用的是未经批准航线。（伊朗官方电视台）",
+          "url": "https://wallstreetcn.com/livenews/3127273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -913,7 +947,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -924,7 +958,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
@@ -1027,6 +1061,35 @@
       ]
     },
     {
+      "keyword_group": "大陆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 17时12分]"
+        },
+        {
+          "title": "台军承认用了大陆品牌轮胎",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E6%89%BF%E8%AE%A4%E7%94%A8%E4%BA%86%E5%A4%A7%E9%99%86%E5%93%81%E7%89%8C%E8%BD%AE%E8%83%8E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -1048,24 +1111,6 @@
       ]
     },
     {
-      "keyword_group": "大陆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 15时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "内存",
       "match_count": 1,
       "titles": [
@@ -1076,7 +1121,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
