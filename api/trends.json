@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T21:03:12.554862+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-07-01T21:53:57.714652+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -31,17 +31,6 @@
           "time_info": "[08时53分 ~ 15时35分]"
         },
         {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 07时32分]"
-        },
-        {
           "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
           "url": "https://wallstreetcn.com/articles/3775893",
           "source": "华尔街见闻",
@@ -51,8 +40,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时12分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[11时12分 ~ 21时53分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "特朗普在最高法院输了，为什么又扯上中国？",
@@ -437,7 +437,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -451,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
+          "url": "https://www.zhihu.com/question/2055584524273185650",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
@@ -481,9 +492,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "特朗普称美伊处得很好",
+          "url": "https://wallstreetcn.com/livenews/3127437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "特朗普听取对伊朗全面开战方案汇报，但暂选择继续谈判",
@@ -503,7 +525,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -525,7 +547,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -569,9 +591,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗谈判进展顺利。 因为股市上涨，每个人都在获利。 正在美国建设很多汽车工厂和人工智能基地。 到我卸任时，我们可能占据芯片市场50%的份额。",
+          "url": "https://wallstreetcn.com/livenews/3127425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "白宫经济顾问哈塞特：提高利率将是一个错误。 新任美联储主席沃什不得不应付一些棘手问题，工作艰巨。 部分美联储官员可能出于针对特朗普的目的作出政策投票。",
@@ -580,7 +613,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -591,7 +624,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -602,7 +635,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -965,7 +998,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1034,6 +1067,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
+          "url": "https://flash.jin10.com/detail/20260701110435543800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 21时53分]"
+        },
+        {
+          "title": "金价大跌后未来怎么走",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
+          "url": "https://www.zhihu.com/question/2053257491765581754",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
+          "url": "https://wallstreetcn.com/livenews/3127404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "金价创13年来最大季度跌幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B13%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%AD%A3%E5%BA%A6%E8%B7%8C%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）上海金早盘价为869.62元/克，较国际金价(870.23元/克)，低0.61元/克",
+          "url": "https://flash.jin10.com/detail/20260701103600829800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     },
@@ -1112,67 +1229,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
-          "url": "https://flash.jin10.com/detail/20260701110435543800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "金价大跌后未来怎么走",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
-          "url": "https://wallstreetcn.com/livenews/3127404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）上海金早盘价为869.62元/克，较国际金价(870.23元/克)，低0.61元/克",
-          "url": "https://flash.jin10.com/detail/20260701103600829800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大陆",
       "match_count": 4,
       "titles": [
@@ -1185,8 +1241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时36分 ~ 21时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时36分 ~ 21时53分]"
         },
         {
           "title": "台军承认：用了大陆品牌轮胎",
@@ -1264,6 +1320,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货黄金短线拉升20美元，向上触及4040美元/盎司，日内涨0.83%。纽约期金站上4050美元/盎司，日内涨0.28%。美元指数DXY短线走低近10点，报101.45。",
+          "url": "https://flash.jin10.com/detail/20260701212358203800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "美元指数在6月份涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3126960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20260701040422983800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 3,
       "titles": [
@@ -1327,40 +1423,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数在6月份涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3126960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时34分]"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260701040422983800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 21时53分]"
         }
       ]
     },
@@ -1385,11 +1453,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时03分]"
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 21时53分]"
         }
       ]
     }
