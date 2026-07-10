@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T19:51:16.064274+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-07-10T22:22:24.510301+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -19,17 +19,6 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
-        },
-        {
           "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
           "url": "https://wallstreetcn.com/articles/3776602",
           "source": "华尔街见闻",
@@ -39,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 19时51分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 22时22分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时51分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -89,6 +89,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
           "url": "https://wallstreetcn.com/livenews/3131587",
           "source": "华尔街见闻-快讯",
@@ -106,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -168,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗证实卡塔尔访问 但要求其就霍尔木兹海峡指控作出解释",
+          "url": "https://flash.jin10.com/detail/20260710214317218800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "报道：伊朗多地传出爆炸声",
@@ -269,6 +291,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "卡塔尔代表团抵达伊朗以举行会谈。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3132120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔省科纳拉克传出三声爆炸声。目前尚无关于爆炸原因以及可能造成损失程度的详细信息。",
           "url": "https://flash.jin10.com/detail/20260710022142127800",
           "source": "金十数据",
@@ -286,7 +319,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -308,7 +341,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -341,7 +374,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -374,7 +407,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -448,7 +481,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -525,11 +558,34 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 22时22分]"
+        },
+        {
+          "title": "白宫官员：特朗普将允许住房法案成为法律。",
+          "url": "https://flash.jin10.com/detail/20260710215324506800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 22时22分]"
         },
         {
           "title": "美国佛州棕榈滩机场正式以特朗普冠名",
@@ -538,7 +594,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -552,17 +608,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
         },
         {
           "title": "美国白宫：特朗普指示商务部长和美国贸易代表与贸易伙伴谈判，以应对对美国国家安全构成威胁的问题。",
@@ -612,6 +657,39 @@
           "time_info": "[04时47分 ~ 06时21分]"
         },
         {
+          "title": "特朗普政府被曝拒绝以色列介入局势，卡塔尔代表飞往伊朗斡旋",
+          "url": "https://flash.jin10.com/detail/20260710214522106800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普将允许住房法案生效。",
+          "url": "https://wallstreetcn.com/livenews/3132129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
           "url": "https://flash.jin10.com/detail/20260710042151909800",
           "source": "金十数据",
@@ -632,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "白宫官员：特朗普将允许住房法案成为法律。",
+          "url": "https://wallstreetcn.com/livenews/3132122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们已经赢了，尤其是在军事领域。",
@@ -689,6 +778,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "特朗普：我不会签署住房法案。",
+          "url": "https://wallstreetcn.com/livenews/3132108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普进行了通话，达成继续在各个领域协调的共识。",
           "url": "https://flash.jin10.com/detail/20260710035516714800",
           "source": "金十数据",
@@ -733,6 +833,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "特朗普：我不会签署住房法案",
+          "url": "https://flash.jin10.com/detail/20260710211741637800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
           "url": "https://wallstreetcn.com/livenews/3131518",
           "source": "华尔街见闻-快讯",
@@ -759,8 +870,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 22时22分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -853,6 +964,69 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "台风巴威减弱为强台风级，可能不会擦过台湾岛，11 日将正面袭击浙江福建，当地情况如何？可做哪些准备？",
+          "url": "https://www.zhihu.com/question/2058543803955241209",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 19时51分]"
+        },
+        {
+          "title": "巴威减弱由强台风级改为台风级，可能不会擦过台湾岛，11 日将登陆浙江福建，当地情况如何？可做哪些准备？",
+          "url": "https://www.zhihu.com/question/2058543803955241209",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "台风“巴威”逼近台湾 居民发声",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%80%BC%E8%BF%91%E5%8F%B0%E6%B9%BE+%E5%B1%85%E6%B0%91%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时22分]"
+        },
+        {
+          "title": "台风巴威逼近台湾东部现7.2米巨浪",
+          "url": "https://www.toutiao.com/trending/7660743945596440118/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时21分]"
+        },
+        {
+          "title": "台风“巴威”逼近台湾",
+          "url": "https://www.douyin.com/hot/2565677",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -899,57 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "台风巴威减弱为强台风级，可能不会擦过台湾岛，11 日将正面袭击浙江福建，当地情况如何？可做哪些准备？",
-          "url": "https://www.zhihu.com/question/2058543803955241209",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
-        },
-        {
-          "title": "台风巴威逼近台湾东部现7.2米巨浪",
-          "url": "https://www.toutiao.com/trending/7660743945596440118/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 16时21分]"
-        },
-        {
-          "title": "台风“巴威”逼近台湾 居民发声",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E2%80%9C%E5%B7%B4%E5%A8%81%E2%80%9D%E9%80%BC%E8%BF%91%E5%8F%B0%E6%B9%BE+%E5%B1%85%E6%B0%91%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
-        },
-        {
-          "title": "台风“巴威”逼近台湾",
-          "url": "https://www.douyin.com/hot/2565677",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         }
       ]
     },
