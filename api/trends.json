@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T13:40:05.127250+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-07-11T15:53:01.656997+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 15时53分]"
         },
         {
           "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
+          "url": "https://flash.jin10.com/detail/20260711153356018800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
@@ -388,6 +399,30 @@
           "time_info": "[10时48分 ~ 13时40分]"
         },
         {
+          "title": "伊朗外长谴责美国财长违反谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3132302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时53分]"
+        },
+        {
+          "title": "伊朗称美国违反谅解备忘录后果自负",
+          "url": "https://wallstreetcn.com/livenews/3132300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时53分]"
+        },
+        {
           "title": "伊朗外交部发言人巴盖伊：阿拉格齐将访问阿曼，讨论并就建立保障船只安全通过霍尔木兹海峡的适当机制交换意见。",
           "url": "https://flash.jin10.com/detail/20260711041744419800",
           "source": "金十数据",
@@ -423,17 +458,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "伊朗外长谴责美国财长违反谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3132302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
           "title": "伊朗议会议长：若美背弃协议，伊将坚决对抗",
           "url": "https://wallstreetcn.com/livenews/3132208",
           "source": "华尔街见闻-快讯",
@@ -443,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "伊朗德黑兰东部传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
@@ -456,15 +491,26 @@
           "time_info": "02时22分"
         },
         {
-          "title": "伊朗称美国违反谅解备忘录后果自负",
-          "url": "https://wallstreetcn.com/livenews/3132300",
+          "title": "伊朗外交部长阿拉格齐抵达阿曼",
+          "url": "https://wallstreetcn.com/livenews/3132315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时40分"
+          "time_info": "15时53分"
+        },
+        {
+          "title": "伊朗媒体Fars News援引官方消息称，德黑兰省东部听到的爆炸声与销毁爆炸物的控制行动有关。",
+          "url": "https://flash.jin10.com/detail/20260711143303492800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "据伊朗媒体Fars News：知情人士否认有关伊朗与美国在伊斯兰堡举行谈判的筹备工作已完成的消息。",
@@ -478,6 +524,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "据伊朗媒体FarsNews：几分钟前，帕克达什特和基亚姆达什特的居民从德黑兰省东部方向听到了爆炸声。目前爆炸的来源和确切地点尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260711142056792800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "分析师：伊朗局势紧张威胁南美农户化肥供应",
           "url": "https://wallstreetcn.com/livenews/3132179",
           "source": "华尔街见闻-快讯",
@@ -487,6 +544,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：有未证实消息称，在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260711141035412800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。",
+          "url": "https://flash.jin10.com/detail/20260711140137269800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "伊朗首席谈判代表卡利巴夫表示，近期的冲突绝不会以伊朗的投降而告终。 如果美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
@@ -506,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -533,6 +612,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "据半岛电视台：伊朗官员表示，该国研究基础设施在战争中遭受了3亿美元损失。",
+          "url": "https://flash.jin10.com/detail/20260711133101594800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：冲突不会以伊朗屈服结束。",
           "url": "https://flash.jin10.com/detail/20260711005450893800",
           "source": "金十数据",
@@ -550,7 +640,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -602,7 +692,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -629,15 +719,15 @@
           "time_info": "[00时55分 ~ 13时40分]"
         },
         {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://wallstreetcn.com/livenews/3132310",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -665,6 +755,18 @@
           "time_info": "[07时09分 ~ 10时48分]"
         },
         {
+          "title": "白宫证实特朗普已“清空”美选举援助委员会",
+          "url": "https://wallstreetcn.com/livenews/3132310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时53分]"
+        },
+        {
           "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
           "url": "https://wallstreetcn.com/livenews/3132190",
           "source": "华尔街见闻-快讯",
@@ -677,13 +779,36 @@
           "time_info": "[00时55分 ~ 02时22分]"
         },
         {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/livenews/3132301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时53分]"
+        },
+        {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
           "url": "https://flash.jin10.com/detail/20260711120611427800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -694,7 +819,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -705,18 +830,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/livenews/3132301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -760,9 +874,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "白宫证实特朗普已“清空”美选举援助委员会",
+          "url": "https://flash.jin10.com/detail/20260711134334234800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "特朗普称伊朗要求继续谈判",
