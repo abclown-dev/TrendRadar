@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:28:11.663459+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-07-11T19:03:51.509405+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -56,6 +56,28 @@
           "time_info": "[05时23分 ~ 10时48分]"
         },
         {
+          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
+          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴在书面声明中表示，为其遇刺身亡的前任最高领袖及父亲复仇，是国家和民族的要求，且“必定”会实现。",
+          "url": "https://flash.jin10.com/detail/20260711183650245800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "美国发布针对伊朗的新制裁措施",
           "url": "https://wallstreetcn.com/livenews/3132218",
           "source": "华尔街见闻-快讯",
@@ -76,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
-          "url": "https://wallstreetcn.com/livenews/3132333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -111,6 +122,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "伊朗称美方撤回立场前不会进行任何谈判",
+          "url": "https://flash.jin10.com/detail/20260711180734540800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "伊朗西部一座炼油厂发生大火",
           "url": "https://wallstreetcn.com/livenews/3132214",
           "source": "华尔街见闻-快讯",
@@ -120,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
-          "url": "https://wallstreetcn.com/livenews/3132330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
@@ -170,6 +181,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
+          "url": "https://wallstreetcn.com/livenews/3132333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时03分]"
         },
         {
           "title": "美方要求伊朗周六前承诺停止向霍尔木兹海峡船只开火",
@@ -242,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时22分]"
+        },
+        {
+          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
+          "url": "https://wallstreetcn.com/livenews/3132330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时03分]"
         },
         {
           "title": "对话伊朗问题专家：伊朗在十字路口，决定未来的已不再是战争",
@@ -319,6 +354,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "伊朗德黑兰东部传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 19时03分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐抵达阿曼",
+          "url": "https://wallstreetcn.com/livenews/3132315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 19时03分]"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
@@ -434,18 +495,6 @@
           "time_info": "[13时40分 ~ 15时53分]"
         },
         {
-          "title": "伊朗德黑兰东部传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3132316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时28分]"
-        },
-        {
           "title": "伊朗称美国违反谅解备忘录后果自负",
           "url": "https://wallstreetcn.com/livenews/3132300",
           "source": "华尔街见闻-快讯",
@@ -456,18 +505,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 15时53分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐抵达阿曼",
-          "url": "https://wallstreetcn.com/livenews/3132315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时28分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：阿拉格齐将访问阿曼，讨论并就建立保障船只安全通过霍尔木兹海峡的适当机制交换意见。",
@@ -514,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。",
+          "url": "https://flash.jin10.com/detail/20260711172652226800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
@@ -717,7 +765,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -751,8 +799,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 19时03分]"
         },
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -763,8 +811,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 19时03分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -780,28 +828,18 @@
           "time_info": "[00时55分 ~ 07时09分]"
         },
         {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://wallstreetcn.com/livenews/3132331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
           "url": "https://wallstreetcn.com/livenews/3132310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             16,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 19时03分]"
         },
         {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
@@ -816,6 +854,18 @@
           "time_info": "[07时09分 ~ 10时48分]"
         },
         {
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://wallstreetcn.com/livenews/3132331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
           "url": "https://wallstreetcn.com/livenews/3132190",
           "source": "华尔街见闻-快讯",
@@ -828,6 +878,18 @@
           "time_info": "[00时55分 ~ 02时22分]"
         },
         {
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://flash.jin10.com/detail/20260711162225573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时03分]"
+        },
+        {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/livenews/3132301",
           "source": "华尔街见闻-快讯",
@@ -838,6 +900,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 15时53分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
+          "url": "https://flash.jin10.com/detail/20260711180323221800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
@@ -860,17 +933,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://flash.jin10.com/detail/20260711162225573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
@@ -981,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "六成美国民众认为特朗普以权谋私",
+          "url": "https://www.toutiao.com/trending/7660740613621841939/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         }
       ]
     },
@@ -1077,6 +1150,59 @@
       ]
     },
     {
+      "keyword_group": "内存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "SK海力士CEO郭鲁正：内存芯片短缺可能持续到2030年以后。",
+          "url": "https://flash.jin10.com/detail/20260711014154681800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片",
+          "url": "https://wallstreetcn.com/livenews/3132193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时22分]"
+        },
+        {
+          "title": "SK海力士CEO称2027年将迎史上最严重内存短缺",
+          "url": "https://wallstreetcn.com/livenews/3132234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
+          "url": "https://wallstreetcn.com/articles/3776682",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 3,
       "titles": [
@@ -1120,48 +1246,6 @@
       ]
     },
     {
-      "keyword_group": "内存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "SK海力士CEO郭鲁正：内存芯片短缺可能持续到2030年以后。",
-          "url": "https://flash.jin10.com/detail/20260711014154681800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片",
-          "url": "https://wallstreetcn.com/livenews/3132193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时22分]"
-        },
-        {
-          "title": "SK海力士CEO称2027年将迎史上最严重内存短缺",
-          "url": "https://wallstreetcn.com/livenews/3132234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -1193,6 +1277,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "快讯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据越南快讯网11日报道，一艘快艇当天在越南南部富国岛附近海域倾覆，目前已造成15人死亡。",
+          "url": "https://flash.jin10.com/detail/20260711172842504800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         }
       ]
     }
