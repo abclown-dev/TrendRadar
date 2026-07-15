@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T16:06:40.773516+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-07-15T18:48:58.321099+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 85,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 16时06分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 18时48分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -92,6 +92,19 @@
           "time_info": "[00时14分 ~ 07时53分]"
         },
         {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时48分]"
+        },
+        {
           "title": "时隔4个月，伊朗议会复会，现场宣读穆杰塔巴声明",
           "url": "https://news.ifeng.com/c/8ulRMRR0mag",
           "source": "凤凰网",
@@ -102,18 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 10时14分]"
-        },
-        {
-          "title": "以色列总理对伊朗领导人发出警告",
-          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 16时06分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -149,6 +150,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "美国：于美国东部时间早上6点开始对伊朗发动一波空袭。",
+          "url": "https://wallstreetcn.com/livenews/3134304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗革命卫队：此次袭击是对美国“敌对”行动的回应。",
           "url": "https://flash.jin10.com/detail/20260715100911402800",
           "source": "金十数据",
@@ -166,7 +178,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -276,7 +288,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -461,6 +473,18 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 18时48分]"
+        },
+        {
           "title": "伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3133901",
           "source": "华尔街见闻-快讯",
@@ -506,6 +530,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "美军宣布对伊朗开始新一波打击",
+          "url": "https://www.toutiao.com/trending/7662700409185635891/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗西南部胡齐斯坦省首府传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3133845",
           "source": "华尔街见闻-快讯",
@@ -526,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "市场消息：美军此次空袭击中了伊朗南部恰巴哈尔一处民用海上交通管制塔。",
+          "url": "https://flash.jin10.com/detail/20260715183014074800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗副总统：美国违背承诺在预料之中",
@@ -561,6 +607,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "伊朗：伊朗不会先低头要求与美国谈判",
+          "url": "https://wallstreetcn.com/livenews/3134293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗革命卫队：位于科威特境内的美军卫星通信中心、导弹与防空雷达、“爱国者”防空系统、美军基地后勤设施及“海马斯”导弹发射装置已被摧毁。",
           "url": "https://flash.jin10.com/detail/20260715124649102800",
           "source": "金十数据",
@@ -578,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -671,6 +728,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "伊朗公布美第五舰队指挥中心被摧毁图",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%91%A7%E6%AF%81%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "美国支持重启伊拉克-叙利亚输油管道，以削弱伊朗的海峡影响力",
           "url": "https://flash.jin10.com/detail/20260715031604115800",
           "source": "金十数据",
@@ -748,17 +816,6 @@
           "time_info": "13时29分"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
           "title": "伊朗副外长：在战争状态下，我们将完全管理霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260715031212695800",
           "source": "金十数据",
@@ -768,6 +825,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "美军对伊朗发起新一轮打击",
+          "url": "https://flash.jin10.com/detail/20260715182403589800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "伊朗前总统内贾德否认与以色列情报机构存在联系",
+          "url": "https://wallstreetcn.com/livenews/3134281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗副外长：伊朗革命卫队海军已按相关谅解备忘录在霍尔木兹海峡北部完成扫雷，但旧航道仍有水雷存在。",
@@ -894,7 +973,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -905,11 +984,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时09分 ~ 16时06分]"
+          "appearance_count": 10,
+          "time_info": "[04时09分 ~ 18时48分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -934,6 +1014,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 10时14分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 18时48分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -990,20 +1085,6 @@
           "time_info": "[10时13分 ~ 16时06分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 16时06分]"
-        },
-        {
           "title": "如何看特朗普在霍尔木兹收费",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
           "source": "bilibili 热搜",
@@ -1019,6 +1100,20 @@
           "time_info": "[00时14分 ~ 07时53分]"
         },
         {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时56分 ~ 18时48分]"
+        },
+        {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
           "url": "https://news.ifeng.com/c/8ulRMRR0meG",
           "source": "凤凰网",
@@ -1030,18 +1125,15 @@
           "time_info": "07时53分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
+          "title": "英国查塔姆研究所：特朗普在“真相社交”媒体软件上的反复无常，已使华盛顿的官方外交被边缘化并失去信誉，这一做法导致美国的盟友和伙伴无法再可靠地依赖该国的外交信息。",
+          "url": "https://flash.jin10.com/detail/20260715183900665800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            18,
-            13,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时56分 ~ 16时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -1053,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
@@ -1091,6 +1194,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时53分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 18时48分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -1165,18 +1281,6 @@
           "time_info": "[06时56分 ~ 07时53分]"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 16时06分]"
-        },
-        {
           "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
           "url": "https://flash.jin10.com/detail/20260715061817167800",
           "source": "金十数据",
@@ -1225,6 +1329,17 @@
           "time_info": "[06时56分 ~ 07时53分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-15）",
+          "url": "https://flash.jin10.com/detail/20260715183129195800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -1236,13 +1351,24 @@
           "time_info": "13时29分"
         },
         {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -1289,6 +1415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普料将于周三敦促国防高管增加武器生产",
+          "url": "https://flash.jin10.com/detail/20260715182559694800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -1341,9 +1478,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
@@ -1432,6 +1580,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "据报特朗普将敦促防务企业加快武器生产",
+          "url": "https://flash.jin10.com/detail/20260715181812607800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "美国总统特朗普：好消息，民主党造成的通胀已经大幅下降，我们还会进一步降低。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260715181723287800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -1566,7 +1736,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -1579,6 +1749,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -1602,6 +1783,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 16时06分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
+          "url": "https://wallstreetcn.com/livenews/3133769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "美元指数跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3133844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美元指数14日下跌",
+          "url": "https://flash.jin10.com/detail/20260715045623923800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美元指数DXY站上101，日内涨0.07%。",
+          "url": "https://flash.jin10.com/detail/20260715182337796800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -1645,45 +1887,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
-          "url": "https://wallstreetcn.com/livenews/3133769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美元指数跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3133844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "美元指数14日下跌",
-          "url": "https://flash.jin10.com/detail/20260715045623923800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         }
       ]
     },
