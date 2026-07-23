@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T18:22:00.641159+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-23T20:24:05.867595+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -358,6 +358,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3138855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。",
           "url": "https://flash.jin10.com/detail/20260723021722018800",
           "source": "金十数据",
@@ -427,8 +438,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 20时24分]"
+        },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
@@ -443,18 +466,6 @@
           "time_info": "[01时17分 ~ 18时22分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 18时22分]"
-        },
-        {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
@@ -463,8 +474,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 20时24分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -476,6 +487,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时11分 ~ 15时32分]"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 20时24分]"
         },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
@@ -522,16 +546,15 @@
           "time_info": "01时17分"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "谷歌披露持有SpaceX股份940亿美元",
+          "url": "https://flash.jin10.com/detail/20260723195331103800",
+          "source": "金十数据",
           "ranks": [
-            13,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "谷歌二季度营收同比增 24% 、云业务大涨 82%，盘后股价却暴跌，如何解读该业绩？市场在担忧什么？",
@@ -617,7 +640,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -644,6 +667,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "谷歌(GOOG.O)在10-Q报告中披露了对SpaceX(SPCX.O)的持股情况，在SpaceX上市后其持有价值940亿美元的股份，其中800亿美元SpaceX持股受短期锁定期限制。",
+          "url": "https://flash.jin10.com/detail/20260723194312680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "Alphabet(GOOG.O)：Gemini APP月活用户数（Maus）达到9.5亿。",
           "url": "https://flash.jin10.com/detail/20260723040745375800",
           "source": "金十数据",
@@ -664,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3138853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "谷歌上调AI资本开支至2050亿美元，美国科技巨头持续扩大投入",
@@ -691,7 +736,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -703,6 +748,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 20时24分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -728,18 +785,6 @@
           "time_info": "[08时11分 ~ 12时15分]"
         },
         {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时22分]"
-        },
-        {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
           "url": "https://www.cls.cn/detail/2434427",
           "source": "财联社热门",
@@ -753,6 +798,19 @@
           "time_info": "[05时05分 ~ 12时15分]"
         },
         {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 20时24分]"
+        },
+        {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
           "url": "https://flash.jin10.com/detail/20260723044952204800",
           "source": "金十数据",
@@ -764,15 +822,37 @@
           "time_info": "05时06分"
         },
         {
+          "title": "美国总统特朗普：美国并不反对民用（非浓缩）核设施。",
+          "url": "https://flash.jin10.com/detail/20260723195408068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "金十整理——惨遭现实“打脸”，四个方面回看特朗普对伊朗战争的判断",
           "url": "https://flash.jin10.com/detail/20260723175340528800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "美国总统特朗普：美国能源部与沙特阿拉伯之间的核协议将获得批准，但完全取决于沙特阿拉伯加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20260723195405095800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -784,18 +864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 18时22分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -889,6 +957,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3138861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
           "url": "https://flash.jin10.com/detail/20260723002126993800",
           "source": "金十数据",
@@ -948,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 20时24分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -1049,6 +1128,106 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "张雪机车被禁止进入台湾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356406&amp;topic_name=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            14,
+            17,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 20时24分]"
+        },
+        {
+          "title": "台湾海峡部分海域进行实弹射击",
+          "url": "https://www.douyin.com/hot/2581967",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 20时24分]"
+        },
+        {
+          "title": "预判2028：美国如何影响台湾地区选举",
+          "url": "https://news.ifeng.com/c/8uzMhUtD32T",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 20时24分]"
+        },
+        {
+          "title": "为何在台湾海峡实弹演训？外交部回应",
+          "url": "https://www.toutiao.com/trending/7665631688925282354/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时24分]"
+        },
+        {
+          "title": "捷克众议长答凤凰记者：不会再有官方人员去台湾",
+          "url": "https://news.ifeng.com/c/8uzvKbvn4Kp",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时24分]"
+        },
+        {
+          "title": "论文疑遭蒋方舟抄袭，台湾原作者回应：学术共同体必须建立在诚信之上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643922",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "航行警告 台湾海峡军事演习",
+          "url": "https://wallstreetcn.com/livenews/3138583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "台湾海峡部分海域进行实弹射击",
+          "url": "https://www.toutiao.com/trending/7665559237002530346/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "X",
       "match_count": 7,
       "titles": [
@@ -1132,94 +1311,8 @@
       ]
     },
     {
-      "keyword_group": "台湾",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "张雪机车被禁止进入台湾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356406&amp;topic_name=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            14,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 18时22分]"
-        },
-        {
-          "title": "台湾海峡部分海域进行实弹射击",
-          "url": "https://www.douyin.com/hot/2581967",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时22分]"
-        },
-        {
-          "title": "为何在台湾海峡实弹演训？外交部回应",
-          "url": "https://www.toutiao.com/trending/7665631688925282354/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "预判2028：美国如何影响台湾地区选举",
-          "url": "https://news.ifeng.com/c/8uzMhUtD32T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 18时22分]"
-        },
-        {
-          "title": "捷克众议长答凤凰记者：不会再有官方人员去台湾",
-          "url": "https://news.ifeng.com/c/8uzvKbvn4Kp",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "航行警告 台湾海峡军事演习",
-          "url": "https://wallstreetcn.com/livenews/3138583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "台湾海峡部分海域进行实弹射击",
-          "url": "https://www.toutiao.com/trending/7665559237002530346/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -1254,9 +1347,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "DeepSeek首轮融资500亿，梁文锋4小时回应一切：越不贪婪，越容易成功",
