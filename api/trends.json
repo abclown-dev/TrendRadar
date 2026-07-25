@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T19:08:46.327014+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-07-25T21:21:50.000665+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时29分 ~ 19时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时29分 ~ 21时21分]"
         },
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 19时08分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 21时21分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时21分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -69,28 +69,6 @@
           "time_info": "[12时09分 ~ 19时08分]"
         },
         {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://flash.jin10.com/detail/20260725184006843800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://wallstreetcn.com/livenews/3139738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "伊朗外长说不惧威胁不屈服于美国",
           "url": "https://flash.jin10.com/detail/20260725113145513800",
           "source": "金十数据",
@@ -100,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://wallstreetcn.com/livenews/3139737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -138,6 +105,42 @@
           "time_info": "[12时09分 ~ 19时08分]"
         },
         {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://wallstreetcn.com/livenews/3139737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
           "url": "https://www.toutiao.com/trending/7665519115210899499/",
           "source": "今日头条",
@@ -151,6 +154,18 @@
           "time_info": "[03时23分 ~ 06时14分]"
         },
         {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
           "url": "https://wallstreetcn.com/livenews/3139646",
           "source": "华尔街见闻-快讯",
@@ -161,6 +176,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时14分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
         },
         {
           "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
@@ -187,17 +226,6 @@
           "time_info": "[12时09分 ~ 15时15分]"
         },
         {
-          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
-          "url": "https://flash.jin10.com/detail/20260725181020836800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "伊朗与巴基斯坦两国外长会晤，讨论地区及国际局势",
           "url": "https://wallstreetcn.com/livenews/3139613",
           "source": "华尔街见闻-快讯",
@@ -207,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
-          "url": "https://flash.jin10.com/detail/20260725180813776800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -240,17 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://flash.jin10.com/detail/20260725174159775800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "伊朗与巴基斯坦两国外长会晤 讨论地区及国际局势",
@@ -295,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
@@ -410,7 +427,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -446,17 +463,6 @@
           "time_info": "12时09分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
-          "url": "https://flash.jin10.com/detail/20260725183311628800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "特朗普称美国与伊朗仍在对话",
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
@@ -480,6 +486,31 @@
           "time_info": "[01时30分 ~ 03时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 21时21分]"
+        },
+        {
           "title": "特朗普称詹姆斯是种族主义者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -501,18 +532,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时45分 ~ 19时08分]"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时08分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
@@ -593,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
@@ -800,18 +830,6 @@
           "time_info": "[01时29分 ~ 12时09分]"
         },
         {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时08分]"
-        },
-        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -821,6 +839,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 01时30分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 21时21分]"
         },
         {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
@@ -874,9 +905,85 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "X",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
+          "url": "https://wallstreetcn.com/articles/3777914",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时21分]"
+        },
+        {
+          "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
+          "url": "https://wallstreetcn.com/livenews/3139651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时14分]"
+        },
+        {
+          "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
+          "url": "https://wallstreetcn.com/livenews/3139647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时14分]"
+        },
+        {
+          "title": "马斯克：所有涉及X系统的代码都将开源",
+          "url": "https://wallstreetcn.com/livenews/3139610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
+          "url": "https://flash.jin10.com/detail/20260725044718667800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
@@ -917,11 +1024,12 @@
           "ranks": [
             4,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 19时08分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 21时21分]"
         },
         {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
@@ -930,11 +1038,12 @@
           "ranks": [
             5,
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 19时08分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 21时21分]"
         },
         {
           "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
@@ -959,70 +1068,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "X",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
-          "url": "https://wallstreetcn.com/livenews/3139651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时14分]"
-        },
-        {
-          "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
-          "url": "https://wallstreetcn.com/livenews/3139647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时14分]"
-        },
-        {
-          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
-          "url": "https://wallstreetcn.com/articles/3777914",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时08分]"
-        },
-        {
-          "title": "马斯克：所有涉及X系统的代码都将开源",
-          "url": "https://wallstreetcn.com/livenews/3139610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
-          "url": "https://flash.jin10.com/detail/20260725044718667800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
         }
       ]
     },
@@ -1077,6 +1122,67 @@
       ]
     },
     {
+      "keyword_group": "显卡",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "显卡再次暴涨,等等党气哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            14,
+            18,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时29分 ~ 21时21分]"
+        },
+        {
+          "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
+          "url": "https://www.zhihu.com/question/2063926827077445448",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 12时09分]"
+        },
+        {
+          "title": "50系显卡涨价幅度扩大",
+          "url": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E6%98%BE%E5%8D%A1%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%E6%89%A9%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            17,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 19时08分]"
+        },
+        {
+          "title": "为什么显卡又涨价了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E5%8F%88%E6%B6%A8%E4%BB%B7%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1116,51 +1222,30 @@
       ]
     },
     {
-      "keyword_group": "显卡",
-      "match_count": 3,
+      "keyword_group": "台湾",
+      "match_count": 2,
       "titles": [
         {
-          "title": "显卡再次暴涨,等等党气哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
-          "source": "贴吧",
+          "title": "台湾民众大游行怒喊“下架民进党”",
+          "url": "https://www.toutiao.com/trending/7666050594217541642/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            14,
-            18,
-            19,
-            20
+            4
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时29分 ~ 19时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
-          "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
-          "url": "https://www.zhihu.com/question/2063926827077445448",
-          "source": "知乎",
+          "title": "台湾致癌油已查出约8000吨",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%87%B4%E7%99%8C%E6%B2%B9%E5%B7%B2%E6%9F%A5%E5%87%BA%E7%BA%A68000%E5%90%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            11,
-            9,
-            6
+            26
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 12时09分]"
-        },
-        {
-          "title": "50系显卡涨价幅度扩大",
-          "url": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E6%98%BE%E5%8D%A1%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%E6%89%A9%E5%A4%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            17,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 19时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     }
