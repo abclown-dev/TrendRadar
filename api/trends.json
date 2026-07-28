@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T06:57:14.524767+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-29T07:58:30.005777+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         },
         {
           "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         },
         {
           "title": "伊朗：如果阿曼拒绝我方条款，伊朗是不会承认霍尔木兹海峡南侧航线的。",
@@ -81,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -115,7 +116,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -169,6 +170,30 @@
           "time_info": "[01时25分 ~ 03时20分]"
         },
         {
+          "title": "美方称伊朗发射多枚导弹袭击驻中东美军",
+          "url": "https://wallstreetcn.com/livenews/3141224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时58分]"
+        },
+        {
+          "title": "WTI原油期货涨5%，美国称拦截了伊朗朝美军发射的导弹。",
+          "url": "https://wallstreetcn.com/livenews/3141223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时58分]"
+        },
+        {
           "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
           "url": "https://wallstreetcn.com/livenews/3141131",
           "source": "华尔街见闻-快讯",
@@ -187,9 +212,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "伊朗否认参与周二对沙特设施的袭击。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3141248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "凤凰女记者：针对泽连斯基对立言论，伊朗内部有三种声音",
+          "url": "https://news.ifeng.com/c/8v8XXEIU4dL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
@@ -275,31 +322,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
         {
-          "title": "美方称伊朗发射多枚导弹袭击驻中东美军",
-          "url": "https://wallstreetcn.com/livenews/3141224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "WTI原油期货涨5%，美国称拦截了伊朗朝美军发射的导弹。",
-          "url": "https://wallstreetcn.com/livenews/3141223",
-          "source": "华尔街见闻-快讯",
+          "title": "美称伊朗发射多枚导弹袭击驻中东美军",
+          "url": "https://www.toutiao.com/trending/7667716185701486122/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "07时58分"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，想要一箭双雕",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗副外长：我们在霍尔木兹海峡的目标，既包括行使主权，也包括获取收入。如果说从霍尔木兹海峡获取收入不是我们的优先事项，那是错误的。",
@@ -319,9 +366,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "伊朗军方高官否认参与袭击沙特目标",
+          "url": "https://flash.jin10.com/detail/20260729071820966800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "伊朗：如果阿曼拒绝我方条款，伊朗是不会承认霍尔木兹海峡南侧航线的。 如果没能达成阿曼协议，我们将继续支持（靠近伊朗边界的）我们的海峡航线。 阿曼建议的霍尔木兹海峡航线并没能化解（伊朗方面的）诸多顾虑。",
@@ -352,7 +410,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -363,9 +421,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "SK海力士ADR美股盘后跌幅扩大至5.7%，该公司二季度运营利润逊色于分析师预期；韩国股市即将在北京时间08:00开盘。 纳斯达克100指数股指期货在亚太盘初下跌0.5%，AI顾虑和美国-伊朗紧张关系牵动投资者神经。",
+          "url": "https://wallstreetcn.com/livenews/3141236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "市场消息：伊朗外交部长与乌克兰外长通电话。",
@@ -396,7 +465,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -429,7 +498,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -451,7 +520,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -462,7 +531,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -503,7 +572,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -550,6 +619,18 @@
           "time_info": "[01时25分 ~ 05时06分]"
         },
         {
+          "title": "美国总统特朗普：伊朗如此气急败坏地想要与我达成一份协议。 我们将让伊朗签署一份协议。 我们将让战争结束。",
+          "url": "https://wallstreetcn.com/livenews/3141225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时58分]"
+        },
+        {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
           "url": "https://wallstreetcn.com/livenews/3141133",
           "source": "华尔街见闻-快讯",
@@ -574,15 +655,26 @@
           "time_info": "[01时25分 ~ 03时20分]"
         },
         {
-          "title": "美国总统特朗普：伊朗如此气急败坏地想要与我达成一份协议。 我们将让伊朗签署一份协议。 我们将让战争结束。",
-          "url": "https://wallstreetcn.com/livenews/3141225",
-          "source": "华尔街见闻-快讯",
+          "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
+          "url": "https://news.ifeng.com/c/8v8T4vNZVWL",
+          "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！",
+          "url": "https://flash.jin10.com/detail/20260729072431211800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -616,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡90分钟会晤后称“富有成效”，美以裂痕暂时降温？",
+          "url": "https://flash.jin10.com/detail/20260729065541832800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -642,7 +745,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -653,7 +756,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         }
@@ -729,8 +832,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         }
       ]
     },
@@ -746,8 +849,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         }
       ]
     },
@@ -763,8 +866,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SK海力士(SKHY.O)：由于内存供应面临挑战，智能手机和个人电脑的销售将进行临时调整。",
+          "url": "https://flash.jin10.com/detail/20260729065223695800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     }
