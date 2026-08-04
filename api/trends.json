@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:30:18.317194+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-05T05:11:43.204267+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -59,8 +59,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
@@ -69,7 +69,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -113,7 +113,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -124,7 +124,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -135,7 +135,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -146,7 +146,79 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "X",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
+          "url": "https://wallstreetcn.com/livenews/3144961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。",
+          "url": "https://wallstreetcn.com/livenews/3144956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
+          "url": "https://wallstreetcn.com/livenews/3144951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
+          "url": "https://wallstreetcn.com/livenews/3144948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马斯克：SpaceX(SPCX.O)决定只基于英伟达(NVDA.O)进行构建。",
+          "url": "https://flash.jin10.com/detail/20260805044355946800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
+          "url": "https://flash.jin10.com/detail/20260805015406320800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
@@ -161,22 +233,12 @@
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
-        },
-        {
-          "title": "中国版“生物DeepSeek”诞生",
-          "url": "https://www.toutiao.com/trending/7670182284162502194/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -184,6 +246,17 @@
           "source": "百度热搜",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
+        },
+        {
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
+          "source": "今日头条",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -203,8 +276,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         },
         {
           "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
@@ -213,7 +286,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -224,7 +297,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
@@ -232,8 +305,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
@@ -242,25 +326,25 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时11分]"
         }
       ]
     },
     {
-      "keyword_group": "X",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
-          "url": "https://flash.jin10.com/detail/20260805015406320800",
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260805045508425800",
           "source": "金十数据",
           "ranks": [
-            24
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时30分"
+          "time_info": "05时11分"
         }
       ]
     }
