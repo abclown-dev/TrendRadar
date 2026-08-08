@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:49:41.812462+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-08-08T15:48:19.398411+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 15时48分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -31,8 +31,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时53分 ~ 14时49分]"
+          "appearance_count": 12,
+          "time_info": "[03时53分 ~ 15时48分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -40,11 +40,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时48分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -53,11 +54,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 15时48分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -411,7 +413,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
@@ -419,7 +421,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -452,8 +454,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时48分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -477,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -763,6 +776,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 15时48分]"
+        },
+        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -774,20 +800,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时53分 ~ 14时49分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 14时49分]"
+          "appearance_count": 12,
+          "time_info": "[03时53分 ~ 15时48分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -894,8 +908,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时48分 ~ 14时49分]"
+          "appearance_count": 14,
+          "time_info": "[01时48分 ~ 15时48分]"
         }
       ]
     },
@@ -910,7 +924,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
@@ -946,9 +960,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时48分]"
         }
       ]
     },
