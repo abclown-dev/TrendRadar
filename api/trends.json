@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:48:19.398411+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-08-08T16:39:09.841981+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时39分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -31,8 +31,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时53分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[03时53分 ~ 16时39分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时39分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时48分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 16时39分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -421,7 +421,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -435,6 +435,18 @@
           "time_info": "[01时48分 ~ 09时23分]"
         },
         {
+          "title": "是否将辞职？伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 16时39分]"
+        },
+        {
           "title": "以情报高官疑因伊朗行动失败被解职",
           "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
           "source": "凤凰网",
@@ -446,16 +458,15 @@
           "time_info": "[01时48分 ~ 06时33分]"
         },
         {
-          "title": "是否将辞职？伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时48分]"
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -481,15 +492,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://flash.jin10.com/detail/20260808144535599800",
-          "source": "金十数据",
+          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
+          "url": "https://wallstreetcn.com/livenews/3146979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -541,6 +552,18 @@
           "time_info": "[03时53分 ~ 05时37分]"
         },
         {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时39分]"
+        },
+        {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146859",
           "source": "华尔街见闻-快讯",
@@ -587,6 +610,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 06时33分]"
+        },
+        {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医",
@@ -658,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://wallstreetcn.com/livenews/3146980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗外长阿拉格齐：面对世界上最昂贵的军事力量，伊朗强大的武装部队已经展示了自身的战备状态、能力和实力。",
@@ -782,11 +827,12 @@
           "ranks": [
             5,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时39分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -800,8 +846,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时53分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[03时53分 ~ 16时39分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -905,11 +951,12 @@
             20,
             22,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时48分 ~ 15时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时48分 ~ 16时39分]"
         }
       ]
     },
@@ -925,8 +972,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 16时39分]"
         }
       ]
     },
@@ -961,8 +1008,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 16时39分]"
         }
       ]
     },
